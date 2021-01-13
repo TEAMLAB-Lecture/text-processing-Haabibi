@@ -2,7 +2,7 @@
 
 import unittest
 import random
-import basic_math as bm
+import text_processing as bm
 
 
 class TestTextProcessing(unittest.TestCase):
